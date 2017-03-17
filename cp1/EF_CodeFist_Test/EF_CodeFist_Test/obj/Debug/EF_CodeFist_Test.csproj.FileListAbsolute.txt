@@ -1,0 +1,10 @@
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EF_CodeFist_Test.exe.config
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EF_CodeFist_Test.exe
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EF_CodeFist_Test.pdb
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EntityFramework.dll
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EntityFramework.xml
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\obj\Debug\EF_CodeFist_Test.csprojResolveAssemblyReference.cache
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\obj\Debug\EF_CodeFist_Test.exe
+E:\Entity-Framework-Code-First-\cp1\EF_CodeFist_Test\EF_CodeFist_Test\obj\Debug\EF_CodeFist_Test.pdb
